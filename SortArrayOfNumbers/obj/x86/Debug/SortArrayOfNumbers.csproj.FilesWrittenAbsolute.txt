@@ -1,0 +1,5 @@
+/home/ddd/softuni/fundamental_level/advanced_C#/domashni/1.data_structures/DataStructures/SortArrayOfNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ddd/softuni/fundamental_level/advanced_C#/domashni/1.data_structures/DataStructures/SortArrayOfNumbers/bin/Debug/SortArrayOfNumbers.exe.mdb
+/home/ddd/softuni/fundamental_level/advanced_C#/domashni/1.data_structures/DataStructures/SortArrayOfNumbers/bin/Debug/SortArrayOfNumbers.exe
+/home/ddd/softuni/fundamental_level/advanced_C#/domashni/1.data_structures/DataStructures/SortArrayOfNumbers/obj/x86/Debug/SortArrayOfNumbers.exe
+/home/ddd/softuni/fundamental_level/advanced_C#/domashni/1.data_structures/DataStructures/SortArrayOfNumbers/obj/x86/Debug/SortArrayOfNumbers.exe.mdb
